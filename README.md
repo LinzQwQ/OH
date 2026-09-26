@@ -1,6 +1,6 @@
 ## vibe coding制作的桌面宠物
 
-vibecoding测试
+一个vibecoding测试项目
 
 ## ✨ 功能介绍
 玩
