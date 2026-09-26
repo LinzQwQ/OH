@@ -11,8 +11,9 @@ vibecoding测试
 
 ## 🚀 快速开始
  1. 克隆仓库
+bash
+git clone https://github.com/LinzQwQ/OH.git
+cd https://github.com/LinzQwQ/OH.git
+### 安装依赖
 ```bash
-git clone https://github.com/LinzQwQ/OH
-
- 2.安装依赖
-pip install -r requirements.txt
+pip install PySide6
