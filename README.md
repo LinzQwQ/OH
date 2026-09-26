@@ -1,4 +1,4 @@
-# 项目名称
+# 项目名称 vibe coding制作的桌面宠物
 
 vibecoding测试
 
