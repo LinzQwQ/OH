@@ -12,8 +12,8 @@
 ## 🚀 快速开始
 # 克隆仓库
 bash
-git clone https://github.com/LinzQwQ/OH.git
-cd https://github.com/LinzQwQ/OH.git
+git clone https://github.com/LinzQwQ/vibe_coding_desktoppet.git
+cd https://github.com/LinzQwQ/vibe_coding_desktoppet.git
 # 安装依赖
 ```bash
 pip install PySide6
